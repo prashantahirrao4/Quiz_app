@@ -8,9 +8,6 @@ let questions=[
          "B.blue cord" ,
          "C. tower" ,
          "D.modem" 
-  
-
-
       ]
     },
     {
